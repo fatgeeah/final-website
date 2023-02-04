@@ -5,7 +5,7 @@
 	font-family:'Poppin' , sans-serif;
 }
  h1{
-	font-size: 120px;
+	font-size:90px;
 	color: #0fcbe4;
 	font-weight: 300;
 	transition: 0.1s;
@@ -34,7 +34,7 @@ h1:hover{
 }
 @media only screen and (max-width:720px){
 	h1{
-		font-size: 170px;
+		font-size: 90px;
 		color: #0fcbe4;
 		font-weight: 300;
 		transition: 0.1s;
