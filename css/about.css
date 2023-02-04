@@ -537,7 +537,7 @@ span{
     }   
     .content h1{
         font-style: italic;
-        font-size: 30px;
+        font-size: 25px;
         color: #000000;
         font-weight: 55;
         transition: 0.3s;
@@ -548,7 +548,7 @@ span{
         color:transparent;
     }
     .content h2{
-        font-size: 30px;
+        font-size: 25px;
         color: rgb(212, 23, 58);
         font-weight: 40;
         transition: 0.3s;
@@ -557,7 +557,7 @@ span{
         text-decoration: none;
         display: inline-block;
         color: #fefeff;
-        font-size: 30px;
+        font-size: 25px;
         border: 2px solid #000000;
         padding: 14px 70px;
         border-radius: 50px;
@@ -565,7 +565,7 @@ span{
     }
  
     .Lero h2{
-        font-size: 40px;
+        font-size: 30px;
         font-style:italic;
     }
     nav{
@@ -586,7 +586,7 @@ span{
         text-decoration: none;
         font-weight: bold;
         text-transform: capitalize;
-        font-size: 50px;
+        font-size: 25px;
     }
     nav ul li a:hover{
         color:  rgb(23, 210, 227);
@@ -633,7 +633,7 @@ span{
         padding: 7px 30px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size:30px;
+        font-size:25px;
     }
     .btn3{
         --glow-color: rgb(0, 0, 0);
