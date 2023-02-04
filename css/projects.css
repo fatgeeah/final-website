@@ -61,6 +61,64 @@ h1:hover{
 	-webkit-text-stroke: 2px rgb(0, 0, 0);
 	color:transparent;
 }
+	  .btn3{
+        line-height: -100%;
+        color:rgb(211, 211, 211);
+        text-decoration: none;
+        border: 2px solid #920505;
+        padding: 7px 30px;
+        border-radius: 30px;
+        padding: 10px 25px;
+        font-size:40px;
+    }
+    .btn3{
+        --glow-color: rgb(0, 0, 0);
+        --glow-spread-color: rgba(82, 13, 13, 0.781);
+        --enhanced-glow-color: rgb(0, 0, 0);
+        --btn-color: whitesmoke;
+        border: .25em solid var(--glow-color);
+        padding: 1em 3em;
+        color: var(--glow-color);
+        font-size: 30px;
+        font-weight: bold;
+        background-color: var(--btn-color);
+        border-radius: 1em;
+        outline: none;
+        box-shadow: 0 0 1em .25em var(--glow-color),
+               0 0 4em 1em var(--glow-spread-color),
+               inset 0 0 .75em .25em var(--glow-color);
+        text-shadow: 0 0 .5em var(--glow-color);
+        position: relative;
+        transition: all 0.3s;
+       }
+       
+    .btn3::after {
+        pointer-events: none;
+        content: "";
+        position: absolute;
+        top: 120%;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-color: var(--glow-spread-color);
+        filter: blur(2em);
+        opacity: .7;
+        transform: perspective(1.5em) rotateX(35deg) scale(1, .6);
+       }
+       
+    .btn3 {
+        color: var(--btn-color);
+        background-color: var(--glow-color);
+        box-shadow: 0 0 1em .25em var(--glow-color),
+               0 0 4em 2em var(--glow-spread-color),
+               inset 0 0 .75em .25em var(--glow-color);
+       }
+       
+    .btn3:active {
+        box-shadow: 0 0 0.6em .25em var(--glow-color),
+               0 0 2.5em 2em var(--glow-spread-color),
+               inset 0 0 .5em .25em var(--glow-color);
+       }
 @media only screen and (max-width:480px){
 	 h1{
 	font-size:35px;
@@ -68,6 +126,58 @@ h1:hover{
 	font-weight: 150;
 	transition: 0.1s;
 }
+	    .btn3{
+        line-height: -100%;
+        color:rgb(211, 211, 211);
+        text-decoration: none;
+        border: 2px solid #920505;
+        padding: 7px 30px;
+        border-radius: 30px;
+        padding: 10px 25px;
+        font-size:30px;
+    }
+    .btn3{
+        --glow-color: rgb(0, 0, 0);
+        --glow-spread-color: rgba(82, 13, 13, 0.781);
+        --enhanced-glow-color: rgb(0, 0, 0);
+        --btn-color: whitesmoke;
+        border: .25em solid var(--glow-color);
+        padding: 1em 3em;
+        color: var(--glow-color);
+        font-size: 30px;
+        font-weight: bold;
+        background-color: var(--btn-color);
+        border-radius: 1em;
+        outline: none;
+        box-shadow: 0 0 1em .25em var(--glow-color),
+               0 0 4em 1em var(--glow-spread-color),
+               inset 0 0 .75em .25em var(--glow-color);
+        text-shadow: 0 0 .5em var(--glow-color);
+        position: relative;
+        transition: all 0.3s;
+       }
+       
+    .btn3::after {
+        pointer-events: none;
+        content: "";
+        position: absolute;
+        top: 120%;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-color: var(--glow-spread-color);
+        filter: blur(2em);
+        opacity: .7;
+        transform: perspective(1.5em) rotateX(35deg) scale(1, .6);
+       }
+       
+    .btn3 {
+        color: var(--btn-color);
+        background-color: var(--glow-color);
+        box-shadow: 0 0 1em .25em var(--glow-color),
+               0 0 4em 2em var(--glow-spread-color),
+               inset 0 0 .75em .25em var(--glow-color);
+       }
 
 h1:hover{
 	-webkit-text-stroke: 2px rgb(0, 0, 0);
