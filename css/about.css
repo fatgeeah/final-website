@@ -313,7 +313,7 @@ span{
         text-decoration: none;
         display: inline-block;
         color: #fefeff;
-        font-size: 15px;
+        font-size: 10px;
         border: 2px solid #000000;
         padding: 14px 70px;
         border-radius: 50px;
@@ -537,7 +537,7 @@ span{
     }   
     .content h1{
         font-style: italic;
-        font-size: 35px;
+        font-size: 30px;
         color: #000000;
         font-weight: 55;
         transition: 0.3s;
@@ -548,7 +548,7 @@ span{
         color:transparent;
     }
     .content h2{
-        font-size: 40px;
+        font-size: 30px;
         color: rgb(212, 23, 58);
         font-weight: 40;
         transition: 0.3s;
@@ -613,7 +613,7 @@ span{
         padding: 4px 2px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size:35px;
+        font-size:25px;
     }
     .btn2{
     
