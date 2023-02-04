@@ -490,6 +490,7 @@ span{
 
  @media only screen and (max-width:480px){
 	 img{
+         position:center;
 	height: 90px;
 	width: 100px;
 	margin: 0 20px;
@@ -497,7 +498,7 @@ span{
 	align-items: center;
 	justify-content: center;
 	text-decoration: none;
-    background-color: antiquewhite;
+        background-color: antiquewhite;
 	border-radius: 50%;
 	border: 1px solid whitesmoke;
 	box-shadow: 8px 8px 12px -2px whitesmoke;
@@ -537,7 +538,7 @@ span{
     }   
     .content h1{
         font-style: italic;
-        font-size: 20px;
+        font-size: 25px;
         color: #000000;
         font-weight: 55;
         transition: 0.3s;
@@ -548,7 +549,7 @@ span{
         color:transparent;
     }
     .content h2{
-        font-size: 15px;
+        font-size: 30px;
         color: rgb(212, 23, 58);
         font-weight: 40;
         transition: 0.3s;
@@ -557,7 +558,7 @@ span{
         text-decoration: none;
         display: inline-block;
         color: #fefeff;
-        font-size: 10px;
+        font-size: 20px;
         border: 2px solid #000000;
         padding: 14px 70px;
         border-radius: 50px;
@@ -613,7 +614,7 @@ span{
         padding: 4px 2px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size: 15px;
+        font-size:25px;
     }
     .btn2{
     
@@ -623,7 +624,7 @@ span{
         padding: 4px 2px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size: 15px;
+        font-size: 25px;
     }
     .btn3{
         line-height: -100%;
@@ -633,7 +634,7 @@ span{
         padding: 7px 30px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size:15px;
+        font-size:25px;
     }
     .btn3{
         --glow-color: rgb(0, 0, 0);
