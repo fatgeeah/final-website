@@ -293,7 +293,7 @@ span{
     }   
     .content h1{
         font-style: italic;
-        font-size: 35px;
+        font-size: 20px;
         color: #000000;
         font-weight: 55;
         transition: 0.3s;
@@ -304,7 +304,7 @@ span{
         color:transparent;
     }
     .content h2{
-        font-size: 25px;
+        font-size: 20px;
         color: rgb(212, 23, 58);
         font-weight: 40;
         transition: 0.3s;
@@ -321,7 +321,7 @@ span{
     }
  
     .Lero h2{
-        font-size: 50px;
+        font-size: 30px;
         font-style:italic;
     }
     nav{
@@ -342,7 +342,7 @@ span{
         text-decoration: none;
         font-weight: bold;
         text-transform: capitalize;
-        font-size: 100px;
+        font-size: 20px;
     }
     nav ul li a:hover{
         color:  rgb(23, 210, 227);
@@ -350,7 +350,7 @@ span{
     }
     .logo{
         color: rgb(0, 0, 0);
-        font-size: 50px;
+        font-size: 30px;
         letter-spacing: 1px;
         cursor: pointer; 
     }
@@ -369,7 +369,7 @@ span{
         padding: 4px 2px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size: 30px;
+        font-size: 15px;
     }
     .btn2{
     
@@ -379,7 +379,7 @@ span{
         padding: 4px 2px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size: 30px;
+        font-size: 15px;
     }
     .btn3{
         line-height: -100%;
@@ -389,7 +389,7 @@ span{
         padding: 7px 30px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size:40px;
+        font-size:20px;
     }
     .btn3{
         --glow-color: rgb(0, 0, 0);
@@ -488,8 +488,8 @@ span{
       }
     }
 
- @media only screen and (max-width:480px){
-	 img{
+/*  @media only screen and (max-width:480px){ */
+/* 	 img{
 	height: 90px;
 	width: 100px;
 	margin: 0 20px;
@@ -730,7 +730,7 @@ span{
         transform: translate(0);
         box-shadow: none;
       }
-    }
+    } */
 
 
 
