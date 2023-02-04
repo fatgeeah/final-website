@@ -633,7 +633,7 @@ span{
         padding: 7px 30px;
         border-radius: 30px;
         padding: 10px 25px;
-        font-size:35px;
+        font-size:30px;
     }
     .btn3{
         --glow-color: rgb(0, 0, 0);
@@ -643,7 +643,7 @@ span{
         border: .25em solid var(--glow-color);
         padding: 1em 3em;
         color: var(--glow-color);
-        font-size: 10px;
+        font-size: 30px;
         font-weight: bold;
         background-color: var(--btn-color);
         border-radius: 1em;
