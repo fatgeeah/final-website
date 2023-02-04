@@ -32,7 +32,7 @@ h1:hover{
 }
 @media only screen and (max-width:720px){
 	 h1{
-	font-size:100px;
+	font-size:80px;
 	color: #0fcbe4;
 	font-weight: 150;
 	transition: 0.1s;
@@ -48,7 +48,7 @@ h1:hover{
     width: 100%;
 }
 .zero p{
-	font-size: 60px;
+	font-size: 40px;
 	font-style: bold;
 	color: #1e7fc0;
 	font-weight: 100;
