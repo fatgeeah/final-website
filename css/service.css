@@ -86,30 +86,16 @@ body{
     font-size: 25px;
     padding: 10px 0 7px;
 }
-/* @media screen and(max-width : 1190px) {
-    .max-width{
-        padding: 0 25px;
-    } 
-    .card{
-        width: calc(50% - 10px);
-        margin-bottom: 20px;
-    }      
-}
-@media screen and(max-width: 700px) {
-    .card{
-        width:100%;
-    }
-} */
 ul {
     font-size: 25px;
     color: #a30a0a;
 }
 @media only screen and (max-width:720px){
-    right: 100%;
-    font-size: 90px;
-	color: #a30a0a;
-	font-weight: 100;
-	transition: 0.1s;
+/*     right: 100%; */
+    font-size: 75px;
+     color: #a30a0a;
+     font-weight: 100;
+     transition: 0.1s;
 }
 h1:hover{
         -webkit-text-stroke: 2px rgb(241, 82, 96);
@@ -156,7 +142,8 @@ body{
 }
 .card{
     padding: 50px 25px;
-    width: calc(26% - 20px);
+	width:50%
+/*     width: calc(26% - 20px); */
     border-radius:6px ;
     background: #222;
     text-align:center ;
@@ -174,7 +161,7 @@ body{
     transform: scale(1.05);
 }
 .box i{
-    font-size: 30px;
+    font-size: 20px;
     color: #89c2f7;
     transition: color 0.3s ease;
 }
@@ -182,25 +169,11 @@ body{
     color: antiquewhite;
 }
 .box h3{
-    font-size: 25px;
+    font-size: 20px;
     padding: 10px 0 7px;
 }
-/* @media screen and(max-width : 1190px) {
-    .max-width{
-        padding: 0 25px;
-    } 
-    .card{
-        width: calc(50% - 10px);
-        margin-bottom: 20px;
-    }      
-}
-@media screen and(max-width: 700px) {
-    .card{
-        width:100%;
-    }
-} */
 ul {
-    font-size: 15px;
+    font-size: 10px;
     color: #a30a0a;
 }
 
