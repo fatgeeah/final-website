@@ -5,46 +5,28 @@
     box-sizing: border-box;
 }
 .hero{
-    height: 150vh;
-    width: 150%;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAA6muXwQjjMIcECUtlsjPZcW9yPj7m-MzBw&usqp=CAU');
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRgoa2UbcngbM_7inD00efy8mhZVt6g3KNQ&usqp=CAU');
     
 }
-
-span{
-    color: rgb(18, 2, 117);
-}
-.Zero{
-    font-size: 50px;
-    font-weight: 200;
+.hero p{
+	font-size: 60px;
+    font-weight: 100;
     font-style: italic;
+	font-style: bold;
+    font-family: sans-serif;
+    color: rgb(255, 0, 0);
+}
+.hero h2{
+	font-size: 80px;
+    font-weight: 100;
+    font-style: italic;
+	font-style: bold;
     font-family: sans-serif;
     color: blueviolet;
-}
-
-.Zero h2:hover{
-	-webkit-text-stroke: 2px rgb(230, 39, 220);
+}	
+.hero h2:hover{
+	-webkit-text-stroke: 2px rgb(75, 2, 2);
 	color:transparent;
-}
-@media only screen and (max-width:720px){
-	.hero{
-		height: 150vh;
-		width: 150%;
-		background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAA6muXwQjjMIcECUtlsjPZcW9yPj7m-MzBw&usqp=CAU');
-		
-	}
-	span{
-		color: rgb(18, 2, 117);
-	}
-	.Zero{
-		font-size: 50px;
-		font-weight: 200;
-		font-style: italic;
-		font-family: sans-serif;
-		color: blueviolet;
-	}
-	.Zero h2:hover{
-		-webkit-text-stroke: 2px rgb(230, 39, 220);
-		color:transparent;
-	}
 }
