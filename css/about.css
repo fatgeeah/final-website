@@ -304,7 +304,7 @@ span{
         color:transparent;
     }
     .content h2{
-        font-size: 20px;
+        font-size: 15px;
         color: rgb(212, 23, 58);
         font-weight: 40;
         transition: 0.3s;
@@ -350,7 +350,7 @@ span{
     }
     .logo{
         color: rgb(0, 0, 0);
-        font-size: 30px;
+        font-size: 25px;
         letter-spacing: 1px;
         cursor: pointer; 
     }
