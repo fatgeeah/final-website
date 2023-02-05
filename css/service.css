@@ -17,7 +17,7 @@ h1:hover{
         color:transparent;
 }
 p{
-    font-size: 60px;
+    font-size: 80px;
     color: antiquewhite;
 }
 body{
@@ -36,7 +36,7 @@ body{
 .max-width h1{
     text-align: center;
     position: relative;
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 500;
     margin-bottom: 60px;
     padding-bottom: 20px;
@@ -75,7 +75,7 @@ body{
     transform: scale(1.05);
 }
 .box i{
-    font-size: 60px;
+    font-size: 80px;
     color: #89c2f7;
     transition: color 0.3s ease;
 }
@@ -83,11 +83,11 @@ body{
     color: antiquewhite;
 }
 .box h3{
-    font-size: 60px;
+    font-size: 80px;
     padding: 10px 0 7px;
 }
 ul {
-    font-size: 50px;
+    font-size: 70px;
     color: #a30a0a;
 }
 @media only screen and (max-width:720px){
