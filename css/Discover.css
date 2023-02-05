@@ -8,6 +8,7 @@
     height: 100vh;
     width: 100%;
     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRgoa2UbcngbM_7inD00efy8mhZVt6g3KNQ&usqp=CAU');
+    background-image: cover;
     
 }
 .hero p{
