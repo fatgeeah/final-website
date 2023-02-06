@@ -17,7 +17,7 @@ h1:hover{
         color:transparent;
 }
 .box p{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 200;
     color: antiquewhite;
 }
@@ -88,12 +88,12 @@ body{
     padding: 10px 0 7px;
 }
 .box ul {
-    font-size: 60px;
+    font-size: 40px;
     color: #a30a0a;
 }
 @media only screen and (max-width:720px){
 /*     right: 100%; */
-    font-size: 65px;
+    font-size: 75px;
      color: #a30a0a;
      font-weight: 100;
      transition: 0.1s;
@@ -144,7 +144,7 @@ body{
 .card{
     padding: 50px 25px;
 	width:50%
-   width: calc(50% - 30px);
+     width: calc(50% - 25px); 
     border-radius:6px ;
     background: #222;
     text-align:center ;
@@ -177,4 +177,5 @@ body{
     font-size: 10px;
     color: #a30a0a;
 }
+
 
