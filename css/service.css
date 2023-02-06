@@ -148,7 +148,7 @@ body{
     }
     .card{
         padding: 50px 25px;
-        width: calc(50% - 30px);
+        width: calc(70% - 30px);
         border-radius:6px ;
         background: #222;
         text-align:center ;
