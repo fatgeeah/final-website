@@ -51,7 +51,7 @@ img{
 	text-align: center;
 }   
 .content h2{
-	font-size: 30px;
+	font-size: 50px;
 	color:rgb(212, 23, 58);
 	font-weight: 40;
 	transition: 0.3s;
@@ -60,7 +60,7 @@ img{
 	text-decoration: none;
 	display: inline-block;
 	color: #fefeff;
-	font-size: 24px;
+	font-size: 35px;
 	border: 2px solid #000000;
 	padding: 14px 70px;
 	border-radius: 50px;
@@ -88,7 +88,7 @@ nav ul li a{
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
-    font-size: 100px;
+    font-size: 120px;
 }
 nav ul li a:hover{
     color:  rgb(23, 210, 227);
@@ -96,7 +96,7 @@ nav ul li a:hover{
 }
 .logo{
     color: rgb(0, 0, 0);
-    font-size: 50px;
+    font-size: 60px;
     letter-spacing: 1px;
     cursor: pointer; 
 }
@@ -115,7 +115,7 @@ span{
     padding: 4px 40px;
 	border-radius: 30px;
     padding: 10px 25px;
-    font-size: 40px;
+    font-size: 50px;
 }
 .btn2{
 
@@ -125,7 +125,7 @@ span{
     padding: 4px 40px;
 	border-radius: 30px;
     padding: 10px 25px;
-    font-size: 40px;
+    font-size: 50px;
 }
 .btn3{
     line-height: -100%;
