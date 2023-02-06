@@ -148,7 +148,7 @@ body{
     }
     .card{
         padding: 50px 25px;
-        width: calc(90% - 80px);
+        width: calc(100% - 80px);
         border-radius:6px ;
         background: #222;
         text-align:center ;
@@ -166,7 +166,7 @@ body{
         transform: scale(1.05);
     }
     .box i{
-        font-size: 120px;
+        font-size: 80px;
         color: #89c2f7;
         transition: color 0.3s ease;
     }
@@ -174,7 +174,7 @@ body{
         color: antiquewhite;
     }
     .box h3{
-        font-size: 30px;
+        font-size: 25px;
         padding: 10px 0 7px;
     }
     .box ul {
