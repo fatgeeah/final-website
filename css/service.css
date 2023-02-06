@@ -166,7 +166,7 @@ body{
         transform: scale(1.05);
     }
     .box i{
-        font-size: 80px;
+        font-size: 40px;
         color: #89c2f7;
         transition: color 0.3s ease;
     }
@@ -174,8 +174,8 @@ body{
         color: antiquewhite;
     }
     .box h3{
-        font-size: 25px;
-        padding: 10px 0 7px;
+        font-size: 20px;
+        padding: 5px 0 3px;
     }
     .box ul {
         font-size: 20px;
