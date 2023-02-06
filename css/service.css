@@ -84,7 +84,7 @@ body{
     color: antiquewhite;
 }
 .box h3{
-    font-size: 125px;
+    font-size: 100px;
     padding: 10px 0 7px;
 }
 .box ul {
@@ -102,7 +102,7 @@ h1:hover{
         -webkit-text-stroke: 2px rgb(241, 82, 96);
         color:transparent;
 }
-p{
+.box p{
     font-size: 20px;
     color: antiquewhite;
 }
@@ -144,7 +144,7 @@ body{
 .card{
     padding: 50px 25px;
 	width:50%
-/*     width: calc(60% - 40px); 
+/*     width: calc(26% - 20px); */
     border-radius:6px ;
     background: #222;
     text-align:center ;
@@ -173,7 +173,7 @@ body{
     font-size: 20px;
     padding: 10px 0 7px;
 }
-ul {
+.box ul {
     font-size: 10px;
     color: #a30a0a;
 }
