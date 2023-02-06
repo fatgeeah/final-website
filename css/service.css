@@ -17,7 +17,8 @@ h1:hover{
         color:transparent;
 }
 .box p{
-    font-size: 60px;
+    font-size: 30px;
+    font-weight: 200;
     color: antiquewhite;
 }
 body{
@@ -36,8 +37,8 @@ body{
 .max-width h1{
     text-align: center;
     position: relative;
-    font-size: 80px;
-    font-weight: 500;
+    font-size: 100px;
+    font-weight: 300;
     margin-bottom: 60px;
     padding-bottom: 20px;
 }
@@ -75,7 +76,7 @@ body{
     transform: scale(1.05);
 }
 .box i{
-    font-size: 80px;
+    font-size: 120px;
     color: #89c2f7;
     transition: color 0.3s ease;
 }
@@ -83,11 +84,11 @@ body{
     color: antiquewhite;
 }
 .box h3{
-    font-size: 80px;
+    font-size: 100px;
     padding: 10px 0 7px;
 }
 .box ul {
-    font-size: 60px;
+    font-size: 40px;
     color: #a30a0a;
 }
 @media only screen and (max-width:720px){
@@ -101,7 +102,7 @@ h1:hover{
         -webkit-text-stroke: 2px rgb(241, 82, 96);
         color:transparent;
 }
-.box p{
+p{
     font-size: 20px;
     color: antiquewhite;
 }
@@ -172,7 +173,7 @@ body{
     font-size: 20px;
     padding: 10px 0 7px;
 }
-.box ul {
+ul {
     font-size: 10px;
     color: #a30a0a;
 }
